@@ -1,6 +1,6 @@
-Amazon.com Website features:
+                                                   ***Amazon.com Website features***
 
-#Functional Testing
+#Functional Testing#
 
 1. Homepage
 --> Logo
@@ -51,6 +51,50 @@ Amazon.com Website features:
  * Test removing an item from the cart.
 --> Proceed to Checkout
  * Verify the "Proceed to Checkout" button redirects to the checkout page.
+
+5. Checkout
+--> Guest Checkout
+* Test checking out as a guest user.
+--> Logged-In User Checkout
+* Test checking out as a logged-in user.
+--> Shipping Address
+* Verify the ability to add, edit, or select a shipping address.
+--> Payment Method
+* Test adding a new payment method (credit card, debit card, visa card etc.).
+* Verify saved payment methods are displayed.
+--> Order Summary
+ * Verify the order summary displays the correct items, quantities, and total price.
+--> Place Order
+ * Test placing an order and verify the confirmation page.
+
+
+6. User Account
+--> Login:*
+* Test logging in with valid and invalid credentials.
+--> Registration:*
+* Test creating a new account.
+--> Order History:*
+* Verify the "Your Orders" page displays past orders.
+--> Wishlist:*
+* Test adding and removing items from the wishlist.
+--> Account Settings:*
+* Verify the ability to update personal information, password, and communication preferences.
+
+7. Customer Service
+--> Help & Support
+* Test accessing the "Help" section.
+* Verify the search functionality for help articles.
+--> Contact Us
+* Test the "Contact Us" feature (e.g., chat, email, or phone).
+
+8. Deals and Promotions
+--> Today's Deals
+* Verify the "Today's Deals" page displays current promotions.
+--> Coupons
+* Test applying coupons to eligible products.
+--> Subscribe & Save
+* Test subscribing to recurring deliveries for eligible products.
+
 
 
 
