@@ -1,1 +1,2 @@
 # Amazon-Website-Features-for-manually-testing
+This repository contains a detailed test plan for functional and non-functional testing of the Amazon.com website. The test plan covers key features, test cases, and validation points to ensure a seamless user experience.

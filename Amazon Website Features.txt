@@ -95,6 +95,71 @@
 --> Subscribe & Save
 * Test subscribing to recurring deliveries for eligible products.
 
+#Non-Functional Testing#
+1. Performance
+--> Page Load Time
+* Test the load time of key pages (homepage, product page, checkout page).
+--> Stress Testing
+* Test the website's behavior under heavy traffic (e.g., during a sale event).
+--> Scalability
+* Verify the website can handle a large number of users simultaneously.
 
+2. Usability
+--> Navigation
+* Test the ease of navigating through the website.
+--> Mobile Responsiveness
+* Verify the website is responsive on different devices (desktop, tablet, mobile).
+- *Accessibility
+--> Test keyboard navigation and screen reader compatibility.
+* Verify compliance with accessibility standards (e.g., WCAG).
 
+3. Security*
+--> SSL Certificate:*
+* Verify the website uses HTTPS and has a valid SSL certificate.
+--> Payment Security:*
+* Test the security of the payment process (e.g., no sensitive data is exposed).
+--> Authentication:*
+* Verify secure login and logout functionality.
+--> Data Privacy:*
+* Test if personal data is handled securely (e.g., encryption).
 
+4. Compatibility*
+--> Browser Compatibility:*
+* Test the website on different browsers (Chrome, Firefox, Safari, Edge).
+--> Device Compatibility:*
+* Verify the website works on different devices (desktop, tablet, mobile).
+
+5. Reliability
+--> Error Handling
+* Verify error messages are displayed for invalid inputs (e.g., invalid login credentials).
+--> Recovery
+* Test the website's ability to recover from crashes or failures.
+
+6. Localization
+--> Language and Currency
+* Test changing the language and currency settings.
+* Verify the website updates accordingly.
+
+7. Scalability
+--> Load Handling
+* Test the website's ability to handle a large number of users and transactions.
+--> Database Performance
+* Verify the database can handle large volumes of data without performance degradation.
+
+8. Maintainability
+--> Code Quality
+* Verify the website's code is well-documented and easy to maintain.
+--> Error Logging
+* Test if errors are logged properly for debugging.
+
+9. Backup and Recovery
+--> Data Backup
+* Verify regular backups of user data and transactions.
+--> Disaster Recovery
+* Test the website's ability to recover from a disaster (e.g., server crash).
+
+10. Compliance
+--> Legal Compliance
+* Verify compliance with legal requirements.
+--> Industry Standards
+* Test adherence to industry standards (payment processing).
