@@ -1,0 +1,18 @@
+Amazon.com Website features:
+
+#Functional Testing
+
+1. Homepage
+--> Logo
+* Verify the logo is displayed and clickable.
+--> Navigation bar
+* Verify the navigation bar links.
+--> Search bar
+*Verify the search results are relevant.
+*Check filter and sorting options.
+--> Cart icon
+* Click the cart icon to ensure it redirects to the cart page.
+*Verify the cart icon displays the number of items added.
+--> Account & Lists
+*Verify the dropdown menu for "Account & Lists" works.
+*Test options like "Sign in," "Create Account," and "Your Orders", "Browsing History" etc.
