@@ -8,11 +8,23 @@ Amazon.com Website features:
 --> Navigation bar
 * Verify the navigation bar links.
 --> Search bar
-*Verify the search results are relevant.
-*Check filter and sorting options.
+* Verify the search results are relevant.
+* Check filter and sorting options.
 --> Cart icon
 * Click the cart icon to ensure it redirects to the cart page.
-*Verify the cart icon displays the number of items added.
+* Verify the cart icon displays the number of items added.
 --> Account & Lists
-*Verify the dropdown menu for "Account & Lists" works.
-*Test options like "Sign in," "Create Account," and "Your Orders", "Browsing History" etc.
+* Verify the dropdown menu for "Account & Lists" works.
+* Test options like "Sign in," "Create Account," and "Your Orders", "Browsing History" etc.
+
+2. Product Search
+--> Category Filters
+ * Test filtering products by category.
+ * Verify the results update correctly.
+--> Sorting Options
+ * Test sorting products by "Price: Low to High," "Price: High to Low," "Avg. Customer Review" etc.
+ * Verify the sorting works as expected.
+--> Pagination:*
+ * Test navigating through multiple pages of search results.
+ * Verify the page numbers and "Next" button work.
+
