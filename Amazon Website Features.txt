@@ -28,7 +28,7 @@ Amazon.com Website features:
  * Test navigating through multiple pages of search results.
  * Verify the page numbers and "Next" button work.
 
-3. Product details page
+3. Product Details Page
 --> Product Information
  * Verify the product title, price, description, and images are displayed correctly.
 --> Add to Cart
@@ -41,5 +41,16 @@ Amazon.com Website features:
  * Test sorting reviews by "Top Reviews," "Most Recent" etc.
 --> Related Products
  * Check if recommended products are displayed.
+
+4. Shopping Cart
+--> Cart Summary
+ * Verify the cart displays the correct items, quantities, and total price.
+--> Update Quantity 
+ * Test updating the quantity of an item in the cart.
+--> Remove Item
+ * Test removing an item from the cart.
+--> Proceed to Checkout
+ * Verify the "Proceed to Checkout" button redirects to the checkout page.
+
 
 
